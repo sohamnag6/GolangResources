@@ -22,4 +22,7 @@ Hands-on: [Programming in Go](https://exercism.org/tracks/go)
 
 Projects: [HashiCorp's open sourced projects](https://github.com/hashicorp)
 
+Dev's Nightmare: [Common mistakes in Go](https://100go.co/)
+
+
 
