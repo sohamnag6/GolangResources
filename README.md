@@ -24,5 +24,4 @@ Projects: [HashiCorp's open sourced projects](https://github.com/hashicorp)
 
 Dev's Nightmare: [Common mistakes in Go](https://100go.co/)
 
-
-
+Book List: [Master repository for Go](https://github.com/dariubs/GoBooks?tab=readme-ov-file#2022---efficient-go-data-driven-performance-optimization) 
