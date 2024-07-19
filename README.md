@@ -10,7 +10,8 @@ Official Documentation: [Learn straight from the gophers mouth](https://golang.o
 
 Reddit channel: [golang](https://www.reddit.com/r/golang/)
 
-Udemy: [Todd Mcloeds Course] [https://www.udemy.com/share/1013gw/]
+Udemy: [Todd Mcloeds Course] (https://www.udemy.com/share/1013gw/)
 
 Golang Blob: [blob](https://blog.golang.org/) 
 
+Hands-on: [Programming in Go](https://exercism.org/tracks/go)
