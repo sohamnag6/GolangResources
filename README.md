@@ -1,6 +1,6 @@
 # GolangResources
 
-This repository contains many popular resources about golang so that you can make yourself a skilled gopher 
+This repository contains popular resources about golang so that you can make yourself a skilled gopher 
 
 ![image](https://github.com/user-attachments/assets/65e1e5a1-e459-4ae7-aefb-1647b80301d3)
 
