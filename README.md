@@ -7,5 +7,10 @@ This repository contains popular resources about golang so that you can make you
 ## Some Useful Links
 
 Official Documentation: [Learn straight from the gophers mouth](https://golang.org/) ,[Tutorial](https://golang.org/doc/)
+
 Reddit channel: [golang](https://www.reddit.com/r/golang/)
+
+Udemy: [Todd Mcloeds Course] [https://www.udemy.com/share/1013gw/]
+
+Golang Blob: [blob](https://blog.golang.org/) 
 
