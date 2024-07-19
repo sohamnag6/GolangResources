@@ -14,6 +14,8 @@ GopherCon Videos: [International conference for Go](https://www.youtube.com/@Gop
 
 Reddit channel: [golang](https://www.reddit.com/r/golang/)
 
+Slack Channel: [Gopher](https://gophers.slack.com/?redir=%2Fmessages%2Fgeneral%2F)
+
 Udemy: [Todd Mcloeds Course](https://www.udemy.com/share/1013gw/)
 
 Official Golang Blob: [blob](https://blog.golang.org/) 
