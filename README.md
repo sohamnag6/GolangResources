@@ -6,6 +6,6 @@ This repository contains many popular resources about golang so that you can mak
 
 ## Some Useful Links
 
-Official Documentation: [Learn straight from the gophers mouth](https://golang.org/ and https://golang.org/doc/)
+Official Documentation: [Learn straight from the gophers mouth](https://golang.org/)(https://golang.org/doc/)
 Reddit channel: [golang](https://www.reddit.com/r/golang/)
 
