@@ -8,7 +8,7 @@ This repository contains popular resources about golang so that you can make you
 
 Official Documentation: [Learn straight from the gophers mouth](https://golang.org/) ,[Tutorial](https://golang.org/doc/)
 
-Microsoft's Go tour: [doc] (https://learn.microsoft.com/en-us/training/paths/go-first-steps/)
+Microsoft's Go tour: [doc](https://learn.microsoft.com/en-us/training/paths/go-first-steps/)
 
 GopherCon Videos: [International conference for Go](https://www.youtube.com/@GopherAcademy/videos)
 
@@ -19,5 +19,7 @@ Udemy: [Todd Mcloeds Course](https://www.udemy.com/share/1013gw/)
 Official Golang Blob: [blob](https://blog.golang.org/) 
 
 Hands-on: [Programming in Go](https://exercism.org/tracks/go)
+
+Projects: [HashiCorp's open sourced projects](https://github.com/hashicorp)
 
 
